@@ -1,0 +1,22 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "Something to test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baksagimm/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baksagimm/testrepo/issues"
+  },
+  "homepage": "https://github.com/baksagimm/testrepo#readme",
+  "dependencies": {
+    "colormangle": "^0.1.95"
+  }
+}
